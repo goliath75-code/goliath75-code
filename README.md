@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mac app release engineering for independent makers
 
-<!--
-**goliath75-code/goliath75-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help makers turn working Swift/SwiftUI, Electron, Tauri, and Python Mac apps into releases customers can install with confidence.
 
-Here are some ideas to get you started:
+## Mac App Shipping Sprint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A fixed-scope release sprint for the last mile: packaging, a repeatable release checklist, signing/notarization setup guidance in your own Apple Developer account, and first-launch testing.
+
+- Founding offer: $750 for the first three release sprints
+- No passwords, private keys, or account ownership required
+- Free 15-minute release-readiness audit
+
+[Request a free release-readiness audit →](https://goliath75-code.github.io/mac-app-shipping-sprint/)
+
+## Proof project
+
+[Quiet Mac](https://github.com/goliath75-code/mac-app-shipping-sprint) — a native Mac utility taken from a local Swift project through beta packaging and a real first-run test.
